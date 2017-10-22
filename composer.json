@@ -1,5 +1,5 @@
 {
-    "name": "ychateauvert/pawl-transport",
+    "name": "thruway/pawl-transport",
     "type": "library",
     "description": "Pawl WebSocket Transport for Thruway Client",
     "keywords": [
